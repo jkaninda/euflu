@@ -19,7 +19,7 @@
 
 <!--Rev Slider End-->
 <title>EUFLU Live score</title>
-<meta content="description">
+<meta content="description" content="EUFLU Live score/Lubumbashi RDC">
 </head>
 <body>
 <!--Wrapper Start-->
