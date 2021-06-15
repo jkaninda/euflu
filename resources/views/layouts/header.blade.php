@@ -80,24 +80,18 @@
                 </li>
                 <li class="nav-item drop-down"> <a href="{{route('home')}}">Matches</a>
                   <ul>
-                    <li><a href="upcoming-match.html">Upcoming Match</a></li>
-                    <li><a href="match-resut-layout-1.html">Match Result One</a></li>
-                    <li><a href="match-resut-layout-2.html">Match Result Two</a></li>
-                    <li><a href="match-resut-layout-3.html">Match Result Three</a></li>
-                    <li><a href="match-details.html">Match Details</a></li>
+                    <li><a href="#">Match prochain</a></li>
+                    <li><a href="#">Score</a></li>
+                   
                   </ul>
                 </li>
-                <li class="nav-item drop-down"> <a href="index.html">Players</a>
+                <li class="nav-item drop-down"> <a href="#">Equipes</a>
                   <ul>
-                    <li><a href="team-one.html">Team One</a></li>
-                    <li><a href="team-two.html">Team Two</a></li>
-                    <li><a href="team-three.html">Team Three</a></li>
-                    <li><a href="team-four.html">Team Four</a></li>
-                    <li><a href="team-details.html">Team Details</a></li>
-                    <li><a href="staff-details.html">Staff Details</a></li>
+                    <li><a href="#">Equipe</a></li>
+                   
                   </ul>
                 </li>
-                <li class="nav-item drop-down"> <a href="index.html">Features</a>
+                <li class="nav-item drop-down"> <a href="#">Features</a>
                   <ul>
                     <li class="drop-down"> <a href="index.html#">Shop</a>
                       <ul>
@@ -108,35 +102,22 @@
                         <li><a href="shop-details.html">Shop Details</a></li>
                       </ul>
                     </li>
-                    <li class="drop-down"> <a href="index.html#">Gallery</a>
+                    <li class="drop-down"> <a href="index.html#">Gallerie</a>
                       <ul>
-                        <li><a href="gallery-2-col.html">Gallery Two Col</a></li>
-                        <li><a href="gallery-3-col.html">Gallery Three Col</a></li>
-                        <li><a href="gallery-clasic.html">Gallery Classic</a></li>
-                        <li><a href="gallery-massonry.html">Gallery Massonry</a></li>
-                        <li><a href="gallery-modern.html">Galery Modern</a></li>
+                        <li><a href="gallery-2-col.html">Gallerie de joueurs</a></li>
+                        
                       </ul>
                     </li>
-                    <li><a href="groups.html">Groups</a></li>
-                    <li><a href="page-404.html">Page 404</a></li>
-                    <li><a href="page-404-one.html">Page 404 Two</a></li>
+                    <li><a href="">Groups</a></li>
+                    
                   </ul>
                 </li>
-                <li class="nav-item"> <a href="point-table.html">Point Table</a> </li>
-                <li class="nav-item drop-down"> <a href="index.html">News</a>
-                  <ul>
-                    <li><a href="news-grid.html">News Grid</a></li>
-                    <li><a href="news-large.html">News Large</a></li>
-                    <li><a href="news-list.html">News List</a></li>
-                    <li><a href="news-details.html">News Details</a></li>
-                  </ul>
+                <li class="nav-item"> <a href="">Points</a> </li>
+                <li class="nav-item drop-down"> <a href="">ACTUALITES</a>
+                  
                 </li>
-				<li class="nav-item drop-down"> <a href="index.html">Fixtures</a>
-                  <ul>
-                    <li><a href="fixtures-layout-1.html">Fixtures One</a></li>
-                    <li><a href="fixtures-layout-2.html">Fixtures Two</a></li>
-                   
-                  </ul>
+				<li class="nav-item drop-down"> <a href="">EN DIRECT</a>
+                
                 </li>
                 
                 <li class="nav-item drop-down"> <a href="index.html">Contact</a>
