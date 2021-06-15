@@ -47,8 +47,8 @@
                               data-splitout="none"
                               data-start="700">
                 <div class="slide-content-box">
-                  <h1><span>Elven Stort:</span><br>
-                    Elective Player </h1>
+                  <h1><span>EUFLU SPORT:</span><br>
+                    Vivez la meilleure équipe de foot </h1>
                 </div>
               </div>
               <div class="tp-caption  tp-resizeme" 
@@ -61,7 +61,7 @@
                               data-splitin="none" 
                               data-splitout="none"
                               data-start="700">
-                <div class="slide-content-box"> <a href="index.html#">Learn More</a> </div>
+                <div class="slide-content-box"> <a href="#">Lire plus</a> </div>
               </div>
             </li>
             
@@ -89,8 +89,8 @@
                               data-splitout="none"
                               data-start="700">
                 <div class="slide-content-box">
-                  <h1><span>Power Kick to</span><br>
-                    Get Your Goals... </h1>
+                  <h1><span>Foot en direct</span><br>
+                    Obtenez vos objectifs... </h1>
                 </div>
               </div>
               <div class="tp-caption  tp-resizeme" 
@@ -103,7 +103,7 @@
                               data-splitin="none" 
                               data-splitout="none"
                               data-start="700">
-                <div class="slide-content-box"> <a href="index.html#">Learn More</a> </div>
+                <div class="slide-content-box"> <a href="#">Lire plus</a> </div>
               </div>
             </li>
           </ul>
@@ -122,19 +122,18 @@
           <ul>
             <li class="col-lg-4">
               <div class="slidetab-box"> <span>01</span>
-                <h6><a href="index.html#">Success is not Accident it’s a Result of Hard Work</a></h6>
-                <strong>NFL League</strong> </div>
+                <h6><a href="index.html#">Le succès n'est pas un accident, c'est le résultat d'un travail acharné</a></h6>
+                <strong>TP Mazembe</strong> </div>
             </li>
             <li class="col-lg-4">
               <div class="slidetab-box"> <span>02</span>
-                <h6><a href="index.html#">Marit Lion: Player of the Month in December 2018</a></h6>
-                <strong>MBL Premiere League</strong> </div>
+                <h6><a href="index.html#">Impossible n'est pas Mazembe</a></h6>
+                <strong>TP Mazembe</strong> </div>
             </li>
             <li class="col-lg-4">
               <div class="slidetab-box"> <span>03</span>
-                <h6><a href="index.html#">The will to prepare to win
-                  that makes the difference</a> </h6>
-                <strong>Carolina Baltimore</strong> </div>
+                <h6><a href="index.html#">Sainte lois Lupopo</a> </h6>
+                <strong>FC Lupopo</strong> </div>
             </li>
           </ul>
         </div>
@@ -148,21 +147,21 @@
           <div class="col-lg-4 col-md-6"> 
             <!--Next Match Widget Start-->
             <div class="next-match-widget">
-              <h5 class="title">Next Match</h5>
+              <h5 class="title">Prochain Match</h5>
               <div class="nmw-wrap">
                 <ul class="match-teams-vs">
-                  <li class="team-logo"><img src="images/mlogo1.png" alt=""> <strong>FC Champs</strong> </li>
+                  <li class="team-logo"><img src="images/tp-mazembe.png" alt=""> <strong>TP Mazembe</strong> </li>
                   <li class="mvs"> <strong class="vs">VS</strong> </li>
-                  <li class="team-logo"><img src="images/mlogo2.png" alt=""> <strong>Tigers</strong> </li>
+                  <li class="team-logo"><img src="images/renaissance.png" alt=""> <strong>RENAISSANCE</strong> </li>
                 </ul>
                 <ul class="nmw-txt">
-                  <li><strong>Super Euro League</strong></li>
-                  <li>20 December, 2020</li>
-                  <li>04:00 PM GMT+</li>
-                  <li><span>New Expo Stadium, NYK</span></li>
+                  <li><strong>Linafoot</strong></li>
+                  <li>09 Septembre, 2021</li>
+                  <li>16:00 Heure de Lubumbashi</li>
+                  <li><span>Stade de Kamalondo</span></li>
                 </ul>
                 <div class="defaultCountdown"></div>
-                <div class="buy-ticket"><a href="index.html#">Buy Your Ticket</a></div>
+                <div class="buy-ticket"><a href="">Acheter Billet</a></div>
               </div>
             </div>
             <!--Next Match Widget End--> 
@@ -171,32 +170,32 @@
             <!--Next Match Fixtures Width Start  -->
             <div class="next-match-fixtures">
               <ul class="match-teams-vs">
-                <li class="team-logo"><img src="images/nmf-logo1.png" alt=""> <strong>FC Champs</strong> </li>
+                <li class="team-logo"><img src="images/nmf-logo1.png" alt=""> <strong>VS CLub</strong> </li>
                 <li class="mvs">
-                  <p> <strong>Super Asia Cup</strong> 20 December, 2020
-                    04:00 PM GMT+ </p>
+                  <p> <strong>FIFA</strong> 20 December, 2021
+                    16:00 PM GMT+2 </p>
                   <strong class="vs">VS</strong> </li>
-                <li class="team-logo"><img src="images/nmf-logo2.png" alt=""> <strong>Tigers</strong> </li>
+                <li class="team-logo"><img src="images/nmf-logo2.png" alt=""> <strong>Tshipolopolo</strong> </li>
               </ul>
               <ul class="nmf-loc">
-                <li><i class="fas fa-location-arrow"></i> New Expo Stadium, NYK</li>
-                <li><a href="index.html#"><i class="fas fa-ticket-alt"></i> Book Tickets</a></li>
+                <li><i class="fas fa-location-arrow"></i> Stade de Martur</li>
+                <li><a href="#"><i class="fas fa-ticket-alt"></i>Payer un billet</a></li>
               </ul>
             </div>
             <!--Next Match Fixtures Width End  --> 
             <!--Next Match Fixtures Width Start  -->
             <div class="next-match-fixtures">
               <ul class="match-teams-vs">
-                <li class="team-logo"><img src="images/nmf-logo2.png" alt=""> <strong>Tigers</strong> </li>
+                <li class="team-logo"><img src="images/nmf-logo2.png" alt=""> <strong>TP Mazembe</strong> </li>
                 <li class="mvs">
-                  <p> <strong>Super Asia Cup</strong> 25 December, 2020
-                    04:00 PM GMT+ </p>
+                  <p> <strong>LINAFOOT</strong> 25 December, 2021
+                    16:00 PM GMT+ </p>
                   <strong class="vs">VS</strong> </li>
-                <li class="team-logo"><img src="images/nmf-logo3.png" alt=""> <strong>Indy Eleven</strong> </li>
+                <li class="team-logo"><img src="images/nmf-logo3.png" alt=""> <strong>Sanga balende</strong> </li>
               </ul>
               <ul class="nmf-loc">
-                <li><i class="fas fa-location-arrow"></i> King Power Stadium</li>
-                <li><a href="index.html#"><i class="fas fa-ticket-alt"></i> Book Tickets</a></li>
+                <li><i class="fas fa-location-arrow"></i> Stade de Mbuji Mayi</li>
+                <li><a href="index.html#"><i class="fas fa-ticket-alt"></i> Payer un billet</a></li>
               </ul>
             </div>
             <!--Next Match Fixtures Width End  --> 
@@ -328,7 +327,7 @@
         <div class="row">
           <div class="col-md-12">
             <div class="section-title">
-              <h2>News & Media Gallery</h2>
+              <h2>Actualités & Galerie</h2>
             </div>
           </div>
         </div>
@@ -336,38 +335,40 @@
           <div class="col-lg-8"> 
             <!--News Box Start-->
             <div class="news-list-post">
-              <div class="post-thumb"> <a href="index.html#"><i class="fas fa-link"></i></a> <img src="images/news-media-img1.jpg" alt=""></div>
+              <div class="post-thumb"> <a href="index.html#"><i class="fas fa-link"></i></a> <img src="images/home-1623777023_illustration-logo-tout-puissant-mazembe-8-etoiles_1623777023_1623777023.jpg" alt=""></div>
               <div class="post-txt">
                 <ul class="post-author">
-                  <li><img src="images/user1.jpg" alt=""> <strong>Smith Jones</strong></li>
+                  <li><img src="images/user1.jpg" alt=""> <strong>Marien Mupenda</strong></li>
                   <li class="share"><i class="fas fa-share-alt"></i></li>
-                  <li class="likes"><i class="far fa-heart"></i> 52 Likes</li>
+                  <li class="likes"><i class="far fa-heart"></i> 52 j'aimes</li>
                 </ul>
-                <h4><a href="index.html#">Draymond Green had bizarre reason</a></h4>
+                <h4><a href="#">Le TPM perd trois points précieux!
+                </a></h4>
                 <ul class="post-meta">
-                  <li><i class="fas fa-calendar-alt"></i> 27 June, 2020</li>
-                  <li><i class="far fa-comment"></i> 89 Comments</li>
+                  <li><i class="fas fa-calendar-alt"></i> 10 Jun, 2021</li>
+                  <li><i class="far fa-comment"></i> 89 Commentaires</li>
                 </ul>
-                <p>Deserunt Sunt in culpa qui officia mollit anim id est laborn Neque porro quisquam est.</p>
-                <a href="index.html#" class="rm">Read More</a> </div>
+                <p>La Linafoot a homologué les résultats d'une série des matchs parmi lesquels le Classico, les réceptions de Sanga Balende et DCMP. Le TPM prend un grand coup sur la tête en perdant sur tapis vert un match pourtant gagné sur le terrain</p>
+                <a href="#" class="rm">Lire plus</a> </div>
             </div>
             <!--News Box End--> 
             <!--News Box Start-->
             <div class="news-list-post">
-              <div class="post-thumb"> <a href="index.html#"><i class="fas fa-link"></i></a> <img src="images/news-media-img2.jpg" alt=""></div>
+              <div class="post-thumb"> <a href="#"><i class="fas fa-link"></i></a> <img src="images/home-1623689905_02ju21-tpmazembe-sainte-marie-coupe-du-congo_ruth-kipoyi-monique_1623689905_1623689905.jpg" alt=""></div>
               <div class="post-txt">
                 <ul class="post-author">
-                  <li><img src="images/user1.jpg" alt=""> <strong>Smith Jones</strong></li>
+                  <li><img src="images/user1.jpg" alt=""> <strong>Francis Numbi</strong></li>
                   <li class="share"><i class="fas fa-share-alt"></i></li>
                   <li class="likes"><i class="far fa-heart"></i> 52 Likes</li>
                 </ul>
-                <h4><a href="index.html#">Success is a Result of Hard Work </a></h4>
+                <h4><a href="#">Les Dames du TPM terminent leaders du groupe</a></h4>
                 <ul class="post-meta">
-                  <li><i class="fas fa-calendar-alt"></i> 27 June, 2020</li>
-                  <li><i class="far fa-comment"></i> 89 Comments</li>
+                  <li><i class="fas fa-calendar-alt"></i> 12 Juin, 2021</li>
+                  <li><i class="far fa-comment"></i> 20 Commentaires</li>
                 </ul>
-                <p>Deserunt Sunt in culpa qui officia mollit anim id est laborn Neque porro quisquam est.</p>
-                <a href="index.html#" class="rm">Read More</a> </div>
+                <p>Le dernier match du groupe A a vécu, ce samedi 12 juin 2021, à Kinshasa pour les dames du TPM. Elles ont été accrochées par leurs homologues de Cercle Sportif Bikira (1-1). Le public de Kinshasa a assisté à une belle rencontre au Stade des Martyrs. La bonne nouvelle est que ces dames terminent leaders de leur groupe grâce à une meilleure différence de buts.</p>
+
+                <a href="#" class="rm">Lire plus</a> </div>
             </div>
             <!--News Box End--> 
           </div>

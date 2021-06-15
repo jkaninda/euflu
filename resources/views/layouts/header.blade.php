@@ -18,7 +18,8 @@
 <link rel="stylesheet" href="js/rev-slider/css/navigation.css"  type='text/css' media='all' />
 
 <!--Rev Slider End-->
-<title>Tigers Sports HTML Template</title>
+<title>EUFLU Live score</title>
+<meta content="description">
 </head>
 <body>
 <!--Wrapper Start-->
@@ -31,11 +32,11 @@
         <div class="row">
           <div class="col-md-6 col-sm-6">
             <ul class="topsocial">
-              <li><a href="index.html#" class="fb"><i class="fab fa-facebook-f"></i></a></li>
-              <li><a href="index.html#" class="tw"><i class="fab fa-twitter"></i></a></li>
-              <li><a href="index.html#" class="insta"><i class="fab fa-instagram"></i></a></li>
-              <li><a href="index.html#" class="in"><i class="fab fa-linkedin-in"></i></a></li>
-              <li><a href="index.html#" class="yt"><i class="fab fa-youtube"></i></a></li>
+              <li><a href="#" class="fb"><i class="fab fa-facebook-f"></i></a></li>
+              <li><a href="#" class="tw"><i class="fab fa-twitter"></i></a></li>
+              <li><a href="#" class="insta"><i class="fab fa-instagram"></i></a></li>
+            <li><a href="#" class="in"><i class="fab fa-linkedin-in"></i></a></li>
+              <li><a href="#" class="yt"><i class="fab fa-youtube"></i></a></li>
             </ul>
           </div>
           <div class="col-md-6 col-sm-6">
@@ -43,17 +44,13 @@
               <li class="lang-btn">
                 <div class="dropdown">
                   <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> ENG </button>
-                  <div class="dropdown-menu" aria-labelledby="dropdownMenuButton"> <a class="dropdown-item" href="index.html#">ENG</a> <a class="dropdown-item" href="index.html#">FR</a> <a class="dropdown-item" href="index.html#">GR</a> <a class="dropdown-item" href="index.html#">AR</a> </div>
+                  <div class="dropdown-menu" aria-labelledby="dropdownMenuButton"> <a class="dropdown-item" href="#">ENG</a> <a class="dropdown-item" href="#">FR</a>
+                     </div>
                 </div>
               </li>
-              <li class="currency-btn">
-                <div class="dropdown">
-                  <button class="btn btn-secondary dropdown-toggle" type="button" id="currencydropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> USD </button>
-                  <div class="dropdown-menu" aria-labelledby="currencydropdown"> <a class="dropdown-item" href="index.html#">USD</a> <a class="dropdown-item" href="index.html#">Euro</a> <a class="dropdown-item" href="index.html#">Pound</a> </div>
-                </div>
-              </li>
-              <li class="acctount-btn"> <a href="index.html#">My Account</a> </li>
-              <li class="search-btn"> <a class="search-icon" href="index.html#search"><i class="fas fa-search"></i></a> </li>
+            
+              <li class="acctount-btn"> <a href="#">Mon compte</a> </li>
+              <li class="search-btn"> <a class="search-icon" href="#"><i class="fas fa-search"></i></a> </li>
             </ul>
             
             <div id="search">
@@ -79,13 +76,9 @@
           <div class="col-md-10 col-sm-7">
             <nav class="main-nav">
               <ul>
-                <li class="nav-item drop-down"> <a href="index.html">Home</a>
-                  <ul>
-                    <li><a href="index.html">Home One</a></li>
-                    <li><a href="index-two.html">Home Two</a></li>
-                </ul>
+                <li class="nav-item drop-down"> <a href="{{route('home')}}">Acceuil</a>
                 </li>
-                <li class="nav-item drop-down"> <a href="index.html">Matches</a>
+                <li class="nav-item drop-down"> <a href="{{route('home')}}">Matches</a>
                   <ul>
                     <li><a href="upcoming-match.html">Upcoming Match</a></li>
                     <li><a href="match-resut-layout-1.html">Match Result One</a></li>
@@ -148,11 +141,10 @@
                 
                 <li class="nav-item drop-down"> <a href="index.html">Contact</a>
                   <ul>
-                    <li><a href="contact.html">Contact One</a></li>
-                    <li><a href="contact-two.html">Contact Two</a></li>
+                    <li><a href="#">Contact</a></li>
                   </ul>
                 </li>
-                <li class="nav-item buy-ticket"> <a href="index.html#">Buy Tickets</a> </li>
+                <li class="nav-item buy-ticket"> <a href="#">Acheter Tickets</a> </li>
               </ul>
             </nav>
           </div>
