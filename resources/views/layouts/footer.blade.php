@@ -78,15 +78,12 @@
     <div class="container brtop">
       <div class="row">
         <div class="col-lg-6 col-md-6">
-          <p class="copyr"> All Rights Reserved of Sports © 2020, Design & Developed By: <a href="index.html#">GramoTech</a> </p>
+          <p class="copyr"> All Rights Reserved of Sports © 2021, Design & Developed By: <a href="#">SmirlTech</a> </p>
         </div>
         <div class="col-lg-6 col-md-6">
           <ul class="quick-links">
-            <li><a href="index.html#">Home</a></li>
-            <li><a href="index.html#">Players</a></li>
-            <li><a href="index.html#">Fixtures</a></li>
-            <li><a href="index.html#">Point Table</a></li>
-            <li><a href="index.html#">Tickets</a></li>
+            <li><a href="index.html#">Acceuil</a></li>
+            <li><a href="index.html#">EN DIRECT</a></li>
             <li><a href="index.html#">Contact</a></li>
           </ul>
         </div>
