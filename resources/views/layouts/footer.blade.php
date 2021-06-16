@@ -82,9 +82,9 @@
         </div>
         <div class="col-lg-6 col-md-6">
           <ul class="quick-links">
-            <li><a href="index.html#">Acceuil</a></li>
-            <li><a href="index.html#">EN DIRECT</a></li>
-            <li><a href="index.html#">Contact</a></li>
+            <li><a href="#">Acceuil</a></li>
+            <li><a href="#">EN DIRECT</a></li>
+            <li><a href="#">Contact</a></li>
           </ul>
         </div>
       </div>

@@ -122,17 +122,17 @@
           <ul>
             <li class="col-lg-4">
               <div class="slidetab-box"> <span>01</span>
-                <h6><a href="index.html#">Le succès n'est pas un accident, c'est le résultat d'un travail acharné</a></h6>
+                <h6><a href="#">Le succès n'est pas un accident, c'est le résultat d'un travail acharné</a></h6>
                 <strong>TP Mazembe</strong> </div>
             </li>
             <li class="col-lg-4">
               <div class="slidetab-box"> <span>02</span>
-                <h6><a href="index.html#">Impossible n'est pas Mazembe</a></h6>
+                <h6><a href="#">Impossible n'est pas Mazembe</a></h6>
                 <strong>TP Mazembe</strong> </div>
             </li>
             <li class="col-lg-4">
               <div class="slidetab-box"> <span>03</span>
-                <h6><a href="index.html#">Sainte lois Lupopo</a> </h6>
+                <h6><a href="#">Sainte lois Lupopo</a> </h6>
                 <strong>FC Lupopo</strong> </div>
             </li>
           </ul>
@@ -186,7 +186,7 @@
             <!--Next Match Fixtures Width Start  -->
             <div class="next-match-fixtures">
               <ul class="match-teams-vs">
-                <li class="team-logo"><img src="images/nmf-logo2.png" alt=""> <strong>TP Mazembe</strong> </li>
+                <li class="team-logo"><img src="images/tp-mazembe.png" alt=""> <strong>TP Mazembe</strong> </li>
                 <li class="mvs">
                   <p> <strong>LINAFOOT</strong> 25 December, 2021
                     16:00 PM GMT+ </p>
@@ -195,23 +195,23 @@
               </ul>
               <ul class="nmf-loc">
                 <li><i class="fas fa-location-arrow"></i> Stade de Mbuji Mayi</li>
-                <li><a href="index.html#"><i class="fas fa-ticket-alt"></i> Payer un billet</a></li>
+                <li><a href="#"><i class="fas fa-ticket-alt"></i> Réserver des billets</a></li>
               </ul>
             </div>
             <!--Next Match Fixtures Width End  --> 
             <!--Next Match Fixtures Width Start  -->
             <div class="next-match-fixtures">
               <ul class="match-teams-vs">
-                <li class="team-logo"><img src="images/nmf-logo1.png" alt=""> <strong>kangaroos</strong> </li>
+                <li class="team-logo"><img src="images/nmf-logo1.png" alt=""> <strong>DCMP</strong> </li>
                 <li class="mvs">
-                  <p> <strong>Super Asia Cup</strong> 30 December, 2020
-                    04:00 PM GMT+ </p>
+                  <p> <strong>Linafoot</strong> 30 December, 2021
+                    16:00  GMT+2 </p>
                   <strong class="vs">VS</strong> </li>
-                <li class="team-logo"><img src="images/nmf-logo2.png" alt=""> <strong>Man Utd</strong> </li>
+                <li class="team-logo"><img src="images/tp-mazembe.png" alt=""> <strong>TP Mazembe</strong> </li>
               </ul>
               <ul class="nmf-loc">
                 <li><i class="fas fa-location-arrow"></i>  Old Trafford, Manchester</li>
-                <li><a href="index.html#"><i class="fas fa-ticket-alt"></i> Book Tickets</a></li>
+                <li><a href="#"><i class="fas fa-ticket-alt"></i> Réserver des billets</a></li>
               </ul>
             </div>
             <!--Next Match Fixtures Width End  --> 
@@ -221,8 +221,8 @@
               <table>
                 <thead>
                   <tr>
-                    <th>P</th>
-                    <th>Team</th>
+                    <th>CL</th>
+                    <th>EQUIPES</th>
                     <th>W</th>
                     <th>D</th>
                     <th>L</th>
@@ -232,7 +232,7 @@
                 <tbody>
                   <tr>
                     <td>1</td>
-                    <td><img src="images/tl-logo1.png" alt=""> <strong>Bethlehem</strong></td>
+                    <td><img src="images/tp-mazembe.png" height="30" width="30" alt=""> <strong>TP Mazembe</strong></td>
                     <td>22</td>
                     <td>4</td>
                     <td>2</td>
@@ -240,7 +240,7 @@
                   </tr>
                   <tr>
                     <td>2</td>
-                    <td><img src="images/tl-logo2.png" alt=""> <strong>Chirston Battery</strong></td>
+                    <td><img src="images/tl-logo2.png" alt=""> <strong>AS V club</strong></td>
                     <td>19</td>
                     <td>3</td>
                     <td>5</td>
@@ -248,7 +248,7 @@
                   </tr>
                   <tr>
                     <td>3</td>
-                    <td><img src="images/tl-logo3.png" alt=""> <strong>Charlotte</strong></td>
+                    <td><img src="images/tl-logo3.png" alt=""> <strong>DCMP</strong></td>
                     <td>18</td>
                     <td>2</td>
                     <td>3</td>
@@ -256,7 +256,7 @@
                   </tr>
                   <tr>
                     <td>4</td>
-                    <td><img src="images/tl-logo4.png" alt=""> <strong>FC Cincinnati</strong></td>
+                    <td><img src="images/tl-logo4.png" alt=""> <strong>ST Lupopo</strong></td>
                     <td>17</td>
                     <td>1</td>
                     <td>2</td>
@@ -264,7 +264,7 @@
                   </tr>
                   <tr>
                     <td>5</td>
-                    <td><img src="images/tl-logo5.png" alt=""> <strong>Indy Eleven</strong></td>
+                    <td><img src="images/tl-logo5.png" alt=""> <strong>Tshipolopolo</strong></td>
                     <td>16</td>
                     <td>3</td>
                     <td>2</td>
@@ -272,7 +272,7 @@
                   </tr>
                   <tr>
                     <td>6</td>
-                    <td><img src="images/tl-logo6.png" alt=""> <strong>Louisville City FC</strong></td>
+                    <td><img src="images/tl-logo6.png" alt=""> <strong>Don Bosco</strong></td>
                     <td>15</td>
                     <td>4</td>
                     <td>6</td>
@@ -319,7 +319,9 @@
     </section>
     <!--Sports Widgets End--> 
     <!--Banner Size 920 x 100 Start-->
+    <!--
     <div class="banner-wrap text-center wf100 mb-80"> <img src="images/placeyourbanner.png" alt=""> </div>
+    -->
     <!--Banner Size 920 x 100 End--> 
     <!--News & Media Gallery Start-->
     <section class="wf100 p80 sports-news">
@@ -376,9 +378,9 @@
           <div class="col-lg-4"> 
             <!--Box Start-->
             <div class="hnews-box">
-              <div class="thumb"> <span>Interview</span> <a href="index.html#"><i class="fas fa-link"></i></a><img src="images/news-media-img4.jpg" alt=""></div>
+              <div class="thumb"> <span>Interview</span> <a href="#"><i class="fas fa-link"></i></a><img src="images/dwbqkpzvgrm52tww7kv7.jpg" alt=""></div>
               <div class="hnews-txt">
-                <h4> <a href="index.html#">Legendary Player: Mike Hawks</a> </h4>
+                <h4> <a href="index.html#">Joueur Légendaire: Tresor Mputu</a> </h4>
                 <ul class="news-meta">
                   <li><i class="far fa-clock"></i> 13 Dec, 2020</li>
                   <li><i class="far fa-comment"></i> 69</li>
@@ -389,9 +391,9 @@
             <!--Box End--> 
             <!--Box Start-->
             <div class="hnews-box">
-              <div class="thumb"> <span>Documentry</span> <a href="index.html#"><i class="fas fa-link"></i></a><img src="images/news-media-img5.jpg" alt=""></div>
+              <div class="thumb"> <span>Documentaire</span> <a href="index.html#"><i class="fas fa-link"></i></a><img src="images/214821_med_tresor_mputu.jpg" alt=""></div>
               <div class="hnews-txt">
-                <h4> <a href="index.html#">Watch Awesome Kicks of Goals</a> </h4>
+                <h4> <a href="index.html#">Regardez des coups de pied impressionnants de buts</a> </h4>
                 <ul class="news-meta">
                   <li><i class="far fa-clock"></i> 13 Dec, 2020</li>
                   <li><i class="far fa-comment"></i> 69</li>
@@ -411,76 +413,30 @@
               <div id="videonews-slider" class="owl-carousel owl-theme"> 
                 
                 <!--Start-->
-                <div class="hvideo-box"> <span class="vtime">02:10</span> <img src="images/vid-01.jpg" alt="">
+                <div class="hvideo-box"> <span class="vtime">02:10</span> <img src="images/fvko1lnqcuy3eatw6ecy.jpg" alt="">
                   <div class="hv-info gallery"> <a href="https://vimeo.com/46882189" data-rel="prettyPhoto[]" class="play"><i class="fas fa-play"></i></a>
-                    <h4><a href="index.html#" >Nicolson Goals are like Storm</a></h4>
+                    <h4><a href="#" >Meilleure moment du Match</a></h4>
                   </div>
                 </div>
                 <!--End--> 
                 
                 <!--Start-->
-                <div class="hvideo-box"> <span class="vtime">02:10</span> <img src="images/vid-02.jpg" alt="">
+                <div class="hvideo-box"> <span class="vtime">02:10</span> <img src="images/fvko1lnqcuy3eatw6ecy.jpg" alt="">
                   <div class="hv-info"> <a href="index.html#" class="play"><i class="fas fa-play"></i></a>
-                    <h4><a href="index.html#">Opportunities at Ciclista al Pais Vasco</a></h4>
+                    <h4><a href="index.html#">TP Mazembe vs AS V-club</a></h4>
                   </div>
                 </div>
                 <!--End--> 
                 
                 <!--Start-->
-                <div class="hvideo-box"> <span class="vtime">02:10</span> <img src="images/vid-03.jpg" alt="">
+                <div class="hvideo-box"> <span class="vtime">02:10</span> <img src="images/fvko1lnqcuy3eatw6ecy.jpg" alt="">
                   <div class="hv-info"> <a href="index.html#" class="play"><i class="fas fa-play"></i></a>
-                    <h4><a href="index.html#">Top Head LIaVettel beats Hamilton</a></h4>
+                    <h4><a href="index.html#">Extrait TP Mazembe VS Tunis</a></h4>
                   </div>
                 </div>
                 <!--End--> 
                 
-               <!--Start-->
-                <div class="hvideo-box"> <span class="vtime">02:10</span> <img src="images/vid-01.jpg" alt="">
-                  <div class="hv-info"> <a href="index.html#" class="play"><i class="fas fa-play"></i></a>
-                    <h4><a href="index.html#">Nicolson Goals are like Storm</a></h4>
-                  </div>
-                </div>
-                <!--End--> 
-                
-                <!--Start-->
-                <div class="hvideo-box"> <span class="vtime">02:10</span> <img src="images/vid-02.jpg" alt="">
-                  <div class="hv-info"> <a href="index.html#" class="play"><i class="fas fa-play"></i></a>
-                    <h4><a href="index.html#">Opportunities at Ciclista al Pais Vasco</a></h4>
-                  </div>
-                </div>
-                <!--End--> 
-                
-                <!--Start-->
-                <div class="hvideo-box"> <span class="vtime">02:10</span> <img src="images/vid-03.jpg" alt="">
-                  <div class="hv-info"> <a href="index.html#" class="play"><i class="fas fa-play"></i></a>
-                    <h4><a href="index.html#">Top Head LIaVettel beats Hamilton</a></h4>
-                  </div>
-                </div>
-                <!--End--> 
-                
-               <!--Start-->
-                <div class="hvideo-box"> <span class="vtime">02:10</span> <img src="images/vid-01.jpg" alt="">
-                  <div class="hv-info"> <a href="index.html#" class="play"><i class="fas fa-play"></i></a>
-                    <h4><a href="index.html#">Nicolson Goals are like Storm</a></h4>
-                  </div>
-                </div>
-                <!--End--> 
-                
-                <!--Start-->
-                <div class="hvideo-box"> <span class="vtime">02:10</span> <img src="images/vid-02.jpg" alt="">
-                  <div class="hv-info"> <a href="index.html#" class="play"><i class="fas fa-play"></i></a>
-                    <h4><a href="index.html#">Opportunities at Ciclista al Pais Vasco</a></h4>
-                  </div>
-                </div>
-                <!--End--> 
-                
-                <!--Start-->
-                <div class="hvideo-box"> <span class="vtime">02:10</span> <img src="images/vid-03.jpg" alt="">
-                  <div class="hv-info"> <a href="index.html#" class="play"><i class="fas fa-play"></i></a>
-                    <h4><a href="index.html#">Top Head LIaVettel beats Hamilton</a></h4>
-                  </div>
-                </div>
-                <!--End--> 
+            
                 
               </div>
             </div>
