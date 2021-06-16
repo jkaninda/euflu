@@ -93,6 +93,8 @@
   <!--Main Footer End-->
   </div>
   <!--Wrapper End--> 
+  <script src="{{ asset('js/app.js') }}"></script>
+
   
   
   
@@ -120,5 +122,5 @@
   <script type="text/javascript" src="js/rev-slider/js/extensions/revolution.extension.parallax.min.js"></script> 
   <script type="text/javascript" src="js/rev-slider/js/extensions/revolution.extension.slideanims.min.js"></script> 
   <script type="text/javascript" src="js/rev-slider/js/extensions/revolution.extension.video.min.js"></script>
-  </body>
+</body>
   </html>

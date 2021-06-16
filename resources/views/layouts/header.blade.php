@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en">
+<html lang="fr">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -22,6 +22,7 @@
 <meta content="description" content="EUFLU Live score/Lubumbashi RDC">
 </head>
 <body>
+
 <!--Wrapper Start-->
 <div class="wrapper"> 
   <!--Header Start-->
@@ -125,7 +126,7 @@
                     <li><a href="#">Contact</a></li>
                   </ul>
                 </li>
-                <li class="nav-item buy-ticket"> <a href="#">Acheter Tickets</a> </li>
+                <li class="nav-item buy-ticket"> <a href="#">Billets</a> </li>
               </ul>
             </nav>
           </div>
